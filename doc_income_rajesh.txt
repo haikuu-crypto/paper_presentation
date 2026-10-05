@@ -1,0 +1,18 @@
+================================================================================
+                    GOVERNMENT OF INDIA / OFFICIAL DOCUMENT RECORD
+================================================================================
+Document Type    : Annual Family Income Certificate
+Document ID      : REV-INC-2026-1188
+Issued To        : Rajesh Kumar
+Issuing Authority: Digital Records Directorate, Government of India
+Issue Date       : 2026-01-15
+Status           : VERIFIED ORIGINAL RECORD
+
+Security Notice:
+This document is digitally registered in the DocTrust Centralized Authentication
+System. Integrity verification hash is recorded in the immutable audit ledger.
+The citizen retains sole discretionary authority to grant or revoke selective
+access permissions to authorized agents.
+
+Verification Watermark: [DOCTRUST-SECURE-HASH-AUTHENTICATED]
+================================================================================
